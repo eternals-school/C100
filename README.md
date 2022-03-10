@@ -42,6 +42,6 @@ Anyone who has started/new with leass than 1 years of experience in CS
 
 <details><summary><b>What you can expect out of this course</b></summary>
 <p>
-You will get a striong understanding about the how people collaboratively work on a big projects
+You will get a strong understanding about the how people collaboratively work on a big projects
 </p>
 </details>
