@@ -28,8 +28,6 @@
 # Enrolled
 * bharathyes
 
-
-
 ## Course Overview
 <details><summary><b>Prerequisites</b></summary>
 <p>
